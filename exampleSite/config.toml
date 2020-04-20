@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://www.getmoreorless.com"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
